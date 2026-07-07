@@ -1,6 +1,8 @@
 # Igor Schulteis
 
-International Commercial Executive
+International Commercial Leadership
+
+Executive Knowledge Platform
 
 Helping companies accelerate profitable growth through commercial transformation, international expansion, business development and strategic partnerships.
 
