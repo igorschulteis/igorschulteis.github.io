@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/style.css">
 # Igor Schulteis
 
 International Commercial Leadership
