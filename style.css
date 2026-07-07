@@ -1,27 +1,28 @@
 body {
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
-  font-size: 15px;
-  line-height: 1.7;
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 24px;
-  color: #111;
-  background: #fff;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace !important;
+  font-size: 15px !important;
+  line-height: 1.75 !important;
+  max-width: 900px !important;
+  margin: 40px auto !important;
+  padding: 0 24px !important;
+  color: #111 !important;
+  background: #fff !important;
 }
 
 h1, h2, h3 {
-  font-family: inherit;
-  font-weight: 700;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 6px;
+  font-family: inherit !important;
+  font-weight: 700 !important;
+  border-bottom: 1px solid #ddd !important;
+  padding-bottom: 6px !important;
 }
 
 a {
-  color: #005cc5;
+  color: #000 !important;
+  text-decoration: underline !important;
 }
 
 ul {
-  padding-left: 24px;
+  padding-left: 20px !important;
 }
 
 li::marker {
