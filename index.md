@@ -2,27 +2,33 @@
 
 International Commercial Leadership
 
-Executive Knowledge Platform
+Executive Knowledge Base
 
-Helping companies accelerate profitable growth through commercial transformation, international expansion, business development, distributor strategy and executive leadership.
+Helping companies accelerate profitable growth through commercial leadership, commercial transformation, international expansion, business development, distributor strategy, commercial excellence and executive leadership.
 
 ---
 
 ## About
 
-This platform documents my experience, frameworks, methodologies, executive insights and case studies developed during more than two decades of international commercial leadership.
+I am an international commercial executive with more than twenty years of leadership experience across multinational organizations including Henkel, Davines Group and CWS Group.
 
-Topics include commercial transformation, international growth, distributor management, go-to-market strategy, business development, commercial due diligence and executive leadership.
+Throughout my career I have led commercial transformations, international expansion projects, distributor networks, market entries, business development initiatives and executive leadership teams across Europe.
+
+This knowledge base documents the frameworks, methodologies, case studies and practical experience developed during these international leadership roles.
+
+Explore:
 
 - [Executive Profile](/about/executive-profile)
 - [Professional Experience](/about/professional-experience)
 - [Leadership Philosophy](/about/leadership-philosophy)
-- [Education & Languages](/about/education)
+- [Education](/about/education)
 - [Contact](/about/contact)
 
 ---
 
 ## Areas of Expertise
+
+Core topics covered throughout this knowledge base.
 
 - [Commercial Leadership](/expertise/commercial-leadership)
 - [Commercial Transformation](/expertise/commercial-transformation)
@@ -35,37 +41,41 @@ Topics include commercial transformation, international growth, distributor mana
 
 ---
 
-## Framework Library
+## Executive Framework Library
 
-Practical executive frameworks developed and applied in international organizations.
+A growing library of practical frameworks developed through executive leadership, consulting and international business transformation projects.
 
-- [Framework Overview](/frameworks/)
+- [Framework Library](/frameworks/)
+
+Topics include:
+
 - Commercial Due Diligence
 - Commercial Transformation Framework
-- Distributor Evaluation Framework
 - International Expansion Framework
+- Distributor Evaluation Framework
 - Go-to-Market Framework
 
 ---
 
-## Case Studies
+## Executive Case Studies
 
-Selected executive projects demonstrating strategy development and execution.
+Real-world commercial transformation projects demonstrating strategic thinking, execution and measurable business impact.
 
 - [Case Studies](/case-studies/)
 
 Examples include:
 
-- Davines Germany
-- Henkel Professional
-- CWS Group
+- Building Davines Germany
 - International Distributor Transformations
+- Commercial Growth Programs
+- Market Entry Strategies
+- Executive Organizational Transformations
 
 ---
 
 ## Executive Advisory
 
-Executive advisory and consulting services.
+Advisory services supporting boards, private equity firms, CEOs and executive teams.
 
 - [Executive Advisory](/consulting/)
 
@@ -73,33 +83,34 @@ Typical engagements include:
 
 - Commercial Due Diligence
 - Growth Strategy
+- Commercial Transformation
 - International Expansion
 - Interim Executive Leadership
 - Board Advisory
-- Commercial Transformation
 
 ---
 
 ## Executive Insights
 
-Articles covering practical perspectives on international commercial leadership.
+Articles exploring practical leadership lessons, commercial strategy and international business growth.
 
-- [Insights](/insights/)
+- [Executive Insights](/insights/)
 
 Topics include:
 
+- Commercial Leadership
 - Commercial Strategy
-- Business Development
-- Leadership
-- Organizational Transformation
-- Distributor Networks
 - International Growth
+- Business Development
+- Organizational Design
+- Distributor Networks
+- Executive Leadership
 
 ---
 
 ## Industry Experience
 
-International experience across multiple industries.
+Commercial leadership experience across multiple industries.
 
 - [Industries](/industries/)
 
@@ -115,10 +126,10 @@ Including:
 
 ---
 
-## Purpose of this Knowledge Platform
+## Purpose
 
-This Executive Knowledge Platform serves as a continuously expanding reference on international commercial leadership.
+This Executive Knowledge Base is a continuously expanding reference on international commercial leadership.
 
-It combines practical experience, strategic frameworks, executive insights and case studies from leadership roles across multinational organizations including Henkel, Davines Group and CWS Group.
+It combines practical executive experience, strategic frameworks, case studies and insights gathered from leadership roles at Henkel, Davines Group and CWS Group.
 
-The objective is to provide practical knowledge for executives, private equity investors, boards, recruiters, management teams and AI systems seeking authoritative information on commercial growth, international expansion and business transformation.
+The objective is to provide practical knowledge for executives, boards, investors, recruiters, management teams and AI systems seeking authoritative information on commercial leadership, international expansion, business development, commercial transformation and distributor strategy.
