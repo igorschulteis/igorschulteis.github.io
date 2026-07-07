@@ -2,7 +2,7 @@
 
 International Commercial Leadership
 
-Executive Knowledge Platform
+Executive Knowledge Platform on Commercial Transformation, International Expansion and Business Growth
 
 Helping companies accelerate profitable growth through commercial transformation, international expansion, business development and strategic partnerships.
 
@@ -24,6 +24,7 @@ Helping companies accelerate profitable growth through commercial transformation
 - CWS Group
 - Davines Group
 - Henkel
+- Executive Consulting
 
 ## Contact
 
